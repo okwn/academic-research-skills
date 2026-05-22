@@ -97,11 +97,14 @@ See the complete artifacts from a real 10-stage pipeline run — peer review rep
 | [Final Paper (EN)](examples/showcase/full_paper_apa7.pdf) | APA 7.0 formatted, LaTeX-compiled |
 | [Final Paper (ZH)](examples/showcase/full_paper_zh_apa7.pdf) | Chinese version, APA 7.0 |
 | [Integrity Report — Pre-Review](examples/showcase/integrity_report_stage2.5.pdf) | Stage 2.5: caught 15 fabricated refs + 3 statistical errors |
+| [Integrity Re-Verification](examples/showcase/integrity_reverification_stage2.5.pdf) | Stage 2.5 re-run: all issues resolved |
 | [Integrity Report — Final](examples/showcase/integrity_report_stage4.5.pdf) | Stage 4.5: zero regressions confirmed |
 | [Peer Review Round 1](examples/showcase/stage3_review_report.pdf) | EIC + 3 Reviewers + Devil's Advocate |
 | [Re-Review](examples/showcase/stage3prime_rereview_report.pdf) | Verification after revisions |
 | [Peer Review Round 2](examples/showcase/stage3_review_report_r2.pdf) | Follow-up review |
 | [Response to Reviewers](examples/showcase/response_to_reviewers_r2.pdf) | Point-by-point author response |
+| [Paper Creation Process (EN)](examples/showcase/paper_creation_process_en.pdf) | Stage 6: bilingual process record, English |
+| [Paper Creation Process (ZH)](examples/showcase/paper_creation_process_zh.pdf) | Stage 6: bilingual process record, Chinese |
 | [Post-Publication Audit Report](examples/showcase/post_publication_audit_2026-03-09.pdf) | Independent full-reference audit: found 21/68 issues missed by 3 rounds of integrity checks |
 
 ---

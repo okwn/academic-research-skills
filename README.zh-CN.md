@@ -97,11 +97,14 @@ v3.3 的灵感来自 [**PaperOrchestra**](https://arxiv.org/abs/2604.05018)（So
 | [完稿论文（英文）](examples/showcase/full_paper_apa7.pdf) | APA 7.0 格式，LaTeX 编译 |
 | [完稿论文（中文）](examples/showcase/full_paper_zh_apa7.pdf) | 中文版，APA 7.0 |
 | [学术诚信报告 — 审稿前](examples/showcase/integrity_report_stage2.5.pdf) | Stage 2.5：发现 15 个虚构引用 + 3 个统计错误 |
+| [学术诚信复检报告](examples/showcase/integrity_reverification_stage2.5.pdf) | Stage 2.5 复检：所有问题已解决 |
 | [学术诚信报告 — 最终](examples/showcase/integrity_report_stage4.5.pdf) | Stage 4.5：确认零回归 |
 | [同行评审第一轮](examples/showcase/stage3_review_report.pdf) | 主编 + 3 审查者 + 魔鬼代言人 |
 | [再审](examples/showcase/stage3prime_rereview_report.pdf) | 修订后验证审查 |
 | [同行评审第二轮](examples/showcase/stage3_review_report_r2.pdf) | 跟踪审查 |
 | [回复审查意见](examples/showcase/response_to_reviewers_r2.pdf) | 逐点回复 |
+| [论文创作过程（英文）](examples/showcase/paper_creation_process_en.pdf) | Stage 6：双语过程记录，英文 |
+| [论文创作过程（中文）](examples/showcase/paper_creation_process_zh.pdf) | Stage 6：双语过程记录，中文 |
 | [出版后审计报告](examples/showcase/post_publication_audit_2026-03-09.pdf) | 独立全引用审计：发现 21/68 篇问题，在 3 轮学术诚信审查后仍被漏掉 |
 
 ---
