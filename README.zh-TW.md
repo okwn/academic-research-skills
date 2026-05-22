@@ -97,11 +97,14 @@ v3.3 的靈感來自 [**PaperOrchestra**](https://arxiv.org/abs/2604.05018)（So
 | [完稿論文（英文）](examples/showcase/full_paper_apa7.pdf) | APA 7.0 格式，LaTeX 編譯 |
 | [完稿論文（中文）](examples/showcase/full_paper_zh_apa7.pdf) | 中文版，APA 7.0 |
 | [誠信報告 — 審稿前](examples/showcase/integrity_report_stage2.5.pdf) | Stage 2.5：抓出 15 個虛構引用 + 3 個統計錯誤 |
+| [誠信複檢報告](examples/showcase/integrity_reverification_stage2.5.pdf) | Stage 2.5 複檢：所有問題已解決 |
 | [誠信報告 — 最終](examples/showcase/integrity_report_stage4.5.pdf) | Stage 4.5：確認零回歸 |
 | [同儕審查第一輪](examples/showcase/stage3_review_report.pdf) | 主編 + 3 審查者 + 魔鬼代言人 |
 | [複審](examples/showcase/stage3prime_rereview_report.pdf) | 修訂後驗證審查 |
 | [同儕審查第二輪](examples/showcase/stage3_review_report_r2.pdf) | 追蹤審查 |
 | [回覆審查意見](examples/showcase/response_to_reviewers_r2.pdf) | 逐點回覆 |
+| [論文創作過程（英文）](examples/showcase/paper_creation_process_en.pdf) | Stage 6：雙語過程記錄，英文 |
+| [論文創作過程（中文）](examples/showcase/paper_creation_process_zh.pdf) | Stage 6：雙語過程記錄，中文 |
 | [出版後稽核報告](examples/showcase/post_publication_audit_2026-03-09.pdf) | 獨立全引用稽核：發現 21/68 篇問題，通過了 3 輪誠信審查仍漏網 |
 
 ---

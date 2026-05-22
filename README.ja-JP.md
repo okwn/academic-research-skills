@@ -97,11 +97,14 @@ v3.3 は [**PaperOrchestra**](https://arxiv.org/abs/2604.05018)（Song, Song, Pf
 | [Final Paper (EN)](examples/showcase/full_paper_apa7.pdf) | APA 7.0 フォーマット、LaTeX コンパイル済み |
 | [Final Paper (ZH)](examples/showcase/full_paper_zh_apa7.pdf) | 中国語版、APA 7.0 |
 | [Integrity Report — Pre-Review](examples/showcase/integrity_report_stage2.5.pdf) | Stage 2.5: 捏造参照 15 件 + 統計エラー 3 件を捕捉 |
+| [Integrity Re-Verification](examples/showcase/integrity_reverification_stage2.5.pdf) | Stage 2.5 再実行: すべての問題が解決済み |
 | [Integrity Report — Final](examples/showcase/integrity_report_stage4.5.pdf) | Stage 4.5: ゼロリグレッションを確認 |
 | [Peer Review Round 1](examples/showcase/stage3_review_report.pdf) | EIC + 3 Reviewers + Devil's Advocate |
 | [Re-Review](examples/showcase/stage3prime_rereview_report.pdf) | 改訂後の検証 |
 | [Peer Review Round 2](examples/showcase/stage3_review_report_r2.pdf) | フォローアップレビュー |
 | [Response to Reviewers](examples/showcase/response_to_reviewers_r2.pdf) | ポイントごとの著者回答 |
+| [Paper Creation Process (EN)](examples/showcase/paper_creation_process_en.pdf) | Stage 6: バイリンガルプロセス記録、英語版 |
+| [Paper Creation Process (ZH)](examples/showcase/paper_creation_process_zh.pdf) | Stage 6: バイリンガルプロセス記録、中国語版 |
 | [Post-Publication Audit Report](examples/showcase/post_publication_audit_2026-03-09.pdf) | 独立した完全参照監査: 3 回の整合性チェックで見逃された 21/68 件の問題を発見 |
 
 ---
