@@ -653,3 +653,6 @@ Inspired by patterns from [aspi6246/Claude-Code-Skills-for-Academics](https://gi
 - academic-paper v2.0 (10 agents, 8 modes including plan)
 - academic-paper-reviewer v1.0 (6 agents, 4 modes including guided)
 - academic-pipeline v1.0 (orchestrator)
+
+## Contributing
+PRs welcome!
