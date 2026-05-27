@@ -68,7 +68,7 @@ Comprehensive reference for setting up post-research literature monitoring acros
 
 ### What is RSS?
 
-RSS (Really Simple Syndication) allows you to subscribe to content updates from websites without checking each site manually. Use an RSS reader (e.g., Feedly, Inoreader, NewsBlur) to aggregate feeds.
+RSS (Really Simple Syndication) allows you to subscribe to content updates from websites without checking each site mannually. Use an RSS reader (e.g., Feedly, Inoreader, NewsBlur) to aggregate feeds.
 
 ### Recommended Feeds
 

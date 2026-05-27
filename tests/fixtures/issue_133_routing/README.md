@@ -61,7 +61,7 @@ notes: <optional free-text>
 
 ### Running the smoke test (manual)
 
-Until v3.10 conductor brings deterministic dispatch, these fixtures are run **manually against a live ARS session**:
+Until v3.10 conductor brings deterministic dispatch, these fixtures are run **mannually against a live ARS session**:
 
 1. Start a fresh Claude Code session in a clean workspace
 2. Paste the `input.md` content as the first message

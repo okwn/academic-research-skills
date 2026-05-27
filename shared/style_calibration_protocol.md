@@ -113,7 +113,7 @@ When personal style conflicts with discipline or journal norms:
    → Using active voice per discipline convention.
    ```
 3. **Notify the user** (once per draft, not per instance):
-   > "Note: Your typical use of [trait] differs from [discipline/journal] convention. I've followed the convention, but you can adjust manually if you prefer your style here."
+   > "Note: Your typical use of [trait] differs from [discipline/journal] convention. I've followed the convention, but you can adjust mannually if you prefer your style here."
 
 ### Safe Dimensions (always applicable)
 

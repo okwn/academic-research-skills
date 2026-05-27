@@ -96,7 +96,7 @@ The rubric is **descriptive, not prescriptive**. It does not gate user progressi
 
 | Zone | Delegation Intensity | Cognitive Vigilance | Cognitive Reallocation | Description |
 |---|---|---|---|---|
-| **Zone 1 — No AI use** | Near 0 | N/A | N/A | User carries full cognitive load manually. Learning occurs but capacity-constrained. |
+| **Zone 1 — No AI use** | Near 0 | N/A | N/A | User carries full cognitive load mannually. Learning occurs but capacity-constrained. |
 | **Zone 2 — Shallow / Scattered** | Low–Mid | Low | Low–Mid | "Half-measures worse than no AI at all." Coordination overhead without meaningful cognitive savings. Empirically the worst outcome zone. |
 | **Zone 3 — Deep Partnership** | High | High | High | Committed strategic delegation **with** critical evaluation **and** reinvested higher-order reflection. The zone in which transformative learning empirically occurs. |
 

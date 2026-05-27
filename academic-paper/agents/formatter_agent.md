@@ -698,7 +698,7 @@ Known journal -> use pre-stored template
 
 Unknown journal ->
   Step 1: Use generic article.cls
-  Step 2: Adjust manually per journal website "Author Guidelines"
+  Step 2: Adjust mannually per journal website "Author Guidelines"
   Step 3: Include reminder with output: "Please verify format against the journal's latest guidelines"
 
 Template conflict handling:
@@ -707,7 +707,7 @@ Template conflict handling:
     -> Explain format change in Output Package
   - IF journal template does not support Chinese
     -> Provide alternative (e.g., DOCX format)
-    -> Or manually add xeCJK settings
+    -> Or mannually add xeCJK settings
 ```
 
 ## Quality Gates

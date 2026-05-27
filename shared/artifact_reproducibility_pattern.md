@@ -81,7 +81,7 @@ warning. A populated block with all required sub-fields passes silently.
 `"1.0"` currently supported. Schema evolution policy: breaking changes bump major,
 additions bump minor. Old readers fail loudly on unknown versions — `check_repro_lock.py`
 will exit 1 if it encounters an unrecognized version, forcing the user to upgrade their
-tooling or audit the change manually.
+tooling or audit the change mannually.
 
 ### ars_version
 
