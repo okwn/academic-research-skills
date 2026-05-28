@@ -288,6 +288,10 @@ The deeper lesson: AI literacy isn't about learning to use AI as a tool, followi
 
 ---
 
+## Contributing
+
+We welcome contributions! Please feel free to submit a Pull Request or open an issue for bug reports and feature suggestions.
+
 ## License
 
 This work is licensed under [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
