@@ -9,7 +9,7 @@
 
 ## 1. Problem
 
-`disclosure` mode with `--policy-anchor=prisma-trAIce` reads `slr_lineage: bool` at renderer time per the G2 invariant track gate (`policy_anchor_disclosure_protocol.md` §3.1). When the user runs the documented `deep-research systematic-review → academic-paper full → disclosure --policy-anchor=prisma-trAIce` pipeline path, the renderer currently sees `slr_lineage=false` because no upstream component sets it. The user must manually supply `mode=systematic-review` to dispatch — defeating the intended automatic SLR dispatch.
+`disclosure` mode with `--policy-anchor=prisma-trAIce` reads `slr_lineage: bool` at renderer time per the G2 invariant track gate (`policy_anchor_disclosure_protocol.md` §3.1). When the user runs the documented `deep-research systematic-review → academic-paper full → disclosure --policy-anchor=prisma-trAIce` pipeline path, the renderer currently sees `slr_lineage=false` because no upstream component sets it. The user must mannually supply `mode=systematic-review` to dispatch — defeating the intended automatic SLR dispatch.
 
 `disclosure` is a finishing step invoked standalone after pipeline completion (academic-paper SKILL.md line 278); the renderer cannot read live `state_tracker` state. The only cross-session, cross-skill carrier is the Material Passport (Schema 9).
 

@@ -13,7 +13,7 @@ Verbatim snapshot of the 17-item PRISMA-trAIce checklist from the GitHub canonic
 
 **Used by**: `compliance_agent` (Task 8), `scripts/check_prisma_trAIce_freshness.py` (Task 12).
 
-> ⚠️ **Upstream sync warning.** If `cqh4046/PRISMA-trAIce` updates, a freshness CI check emits an annotation but does not block merges. Maintainers must manually re-sync this file and bump `snapshot_date` + `upstream_version_commit`. See `scripts/check_prisma_trAIce_freshness.py`.
+> ⚠️ **Upstream sync warning.** If `cqh4046/PRISMA-trAIce` updates, a freshness CI check emits an annotation but does not block merges. Maintainers must mannually re-sync this file and bump `snapshot_date` + `upstream_version_commit`. See `scripts/check_prisma_trAIce_freshness.py`.
 
 ## Status disclaimer
 

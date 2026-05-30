@@ -422,7 +422,7 @@ Round 2 (re-review):
   │   -> Accept with remaining issues -> "Acknowledged Limitations"
   └── Overall Score < 6.5 AND Critical unresolved ->
       -> Notify user, suggest options:
-        (a) Manually revise and resubmit
+        (a) Mannually revise and resubmit
         (b) Lower paper ambitions (e.g., target a lower-tier journal)
         (c) Accept current state, record issues in Limitations
 ```

@@ -65,7 +65,7 @@ Aligns with issue body's tentative answer. The audit agent emits `claim_audit_re
 
 **Rejected:** MED-WARN with gate-refuse. Would create huge noise on humanities/social-science papers whose references are >50% paywalled with no API. Signal-to-noise drops to zero; users get conditioned to ignore the gate.
 
-**Why:** Retrieval failure ≠ claim unsupported. The audit is **measuring the system's ability to verify**, not the claim's truth-value. Conflating those collapses the signal. User remedy when they want hard verification: upload PDF manually, re-run audit. The advisory annotation is enough to surface "this one wasn't checked" without blocking output.
+**Why:** Retrieval failure ≠ claim unsupported. The audit is **measuring the system's ability to verify**, not the claim's truth-value. Conflating those collapses the signal. User remedy when they want hard verification: upload PDF mannually, re-run audit. The advisory annotation is enough to surface "this one wasn't checked" without blocking output.
 
 **Consequence:**
 - New finalizer cell #7 (LOW-WARN tier alongside CLAIM-AUDIT-AMBIGUOUS).

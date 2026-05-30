@@ -236,7 +236,7 @@ If required materials are found missing during transition:
 If Stage 2.5 or 4.5 corrections exceed 3 rounds without passing:
 1. List all unverifiable items
 2. User decides:
-   - Manually handle unverifiable items
+   - Mannually handle unverifiable items
    - Remove unverifiable citations
    - Continue to next stage (with "partially unverified" warning)
 

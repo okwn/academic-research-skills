@@ -131,7 +131,7 @@ If the venue requires placement in multiple locations (e.g., Methods + cover let
 
 - **Venues outside the v1 database**: the mode halts and asks the user. It does not guess.
 - **Policies that have changed since the database snapshot**: the mode records the access date in the placement instructions. Users should verify against the current venue page before submission.
-- **Analysis assistance**: if the AI actually ran computations or generated analysis results (not just writing), most venues require a separate disclosure in a Code Availability or Analysis section. This mode flags the case and produces a separate paragraph; the user must place it manually.
+- **Analysis assistance**: if the AI actually ran computations or generated analysis results (not just writing), most venues require a separate disclosure in a Code Availability or Analysis section. This mode flags the case and produces a separate paragraph; the user must place it mannually.
 - **Co-authored AI**: as of the 2026 policy snapshot, no venue in the v1 database accepts AI as a listed author. The mode refuses to produce author-list text and instead produces authorship-rejection text plus the disclosure.
 
 ---

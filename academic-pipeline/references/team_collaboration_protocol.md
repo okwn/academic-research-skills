@@ -257,5 +257,5 @@ Add Integration Lead role:
 - Each team member runs their own pipeline stages independently in separate Claude sessions
 - Handoff materials (conforming to schemas in `shared/handoff_schemas.md`) ensure consistency across sessions
 - Real-time co-editing is not supported; use git or shared documents for synchronization
-- Pipeline state tracking is per-session; the Integration Lead must manually synchronize state across sessions
+- Pipeline state tracking is per-session; the Integration Lead must mannually synchronize state across sessions
 - The pipeline does not enforce team role permissions; discipline is maintained by convention

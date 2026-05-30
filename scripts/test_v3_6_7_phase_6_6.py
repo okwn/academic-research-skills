@@ -140,7 +140,7 @@ def _read_prompt() -> str:
 
     To bust the cache during a debugger session (e.g. when iterating on
     prompt text and re-running tests in the same process), set
-    `_PROMPT_CACHE = None` manually.
+    `_PROMPT_CACHE = None` mannually.
     """
     global _PROMPT_CACHE
     if _PROMPT_CACHE is None:
